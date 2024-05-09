@@ -47,10 +47,15 @@ To run the server, execute the following command:
 ```
 The server will display its process ID (PID) upon startup and wait for messages from the client.
 
-###Client
+### Client
 
 To send a message to the server, execute the following command:
 ```sh
 ./client [SERVER_PID] [MESSAGE]
 ```
 Replace [SERVER_PID] with the process ID of the server displayed when it started, and [MESSAGE] with the string you want to send
+
+### Example:
+```sh
+./client 12345 "Hello, world!"
+```
