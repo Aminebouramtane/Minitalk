@@ -46,3 +46,4 @@ To install and run this program, follow these steps:
 To run the server, execute the following command:
 ```sh
 ./server
+The server will display its process ID (PID) upon startup and wait for messages from the client.
