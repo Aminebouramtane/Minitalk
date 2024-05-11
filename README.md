@@ -24,7 +24,7 @@ To install and run this program, follow these steps:
 
 1. Clone this repository:
     ```sh
-    git@github.com:Aminebouramtane/Minitalk.git
+    https://github.com/Aminebouramtane/Minitalk.git
     ```
 
 2. Navigate to the project directory:
