@@ -49,6 +49,7 @@ The server will display its process ID (PID) upon startup and wait for messages 
 
 ### Client
 
+
 To send a message to the server, execute the following command:
 ```sh
 ./client [SERVER_PID] [MESSAGE]
