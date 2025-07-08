@@ -8,6 +8,7 @@ Minitalk is a simple client-server communication program implemented in C, where
 - [Installation](#installation)
 - [Usage](#usage)
 
+
 ## Introduction
 
 The aim of this project is to introduce the concept of inter-process communication using signals in Unix-based systems. The client sends a message to the server one character at a time, and the server receives and prints the message once it's complete.
